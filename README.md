@@ -1,0 +1,1 @@
+NOTE: The only file I wrote was main.c. The other files are required for proper compilation, and should not be removed. I am not taking any credit for creating those files, as I simply did not create them. The copyrights are in tact to credit their creators.
